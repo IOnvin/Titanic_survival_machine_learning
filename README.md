@@ -27,7 +27,7 @@ The workflow indicates general sequence of how each stage may follow the other. 
 # Workflow goals
 The data science solutions workflow solves for seven major goals.
 
-# Classifying: 
+## Classifying: 
 We may want to classify or categorize our samples. We may also want to understand the implications or correlation of different classes with our solution goal.
 
 # Correlating: 
